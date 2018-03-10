@@ -1,0 +1,23 @@
+{
+  "name": "MyFirstPod",
+  "version": "0.1.0",
+  "summary": "Demonstrates how to create a very first pod.",
+  "swift_version": "4.0",
+  "description": "CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects. It has over 43 thousand libraries and is used in over 3 million apps. CocoaPods can help you scale your projects elegantly.",
+  "homepage": "https://github.com/oNguyenXuanThanh/MyFirstPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "oNguyenXuanThanh": "thanhfnx@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/oNguyenXuanThanh/MyFirstPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyFirstPod/Classes/**/*"
+}
